@@ -15,3 +15,20 @@ C:\Users\jhere\OneDrive\Documentos\TE_Projects\webapi_architecture\DAL\obj\Debug
 C:\Users\jhere\OneDrive\Documentos\TE_Projects\webapi_architecture\DAL\obj\Debug\net7.0\ref\DAL.dll
 C:\Users\jhere\OneDrive\Documentos\TE_Projects\webapi_architecture\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
 C:\Users\jhere\OneDrive\Documentos\TE_Projects\webapi_architecture\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\bin\Debug\net7.0\DAL.dll
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\bin\Debug\net7.0\DAL.pdb
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\bin\Debug\net7.0\Entities.dll
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\bin\Debug\net7.0\Entities.pdb
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\DAL.dll
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\ref\DAL.dll

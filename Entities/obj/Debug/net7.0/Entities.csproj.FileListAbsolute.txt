@@ -9,3 +9,14 @@ C:\Users\jhere\OneDrive\Documentos\TE_Projects\webapi_architecture\Entities\obj\
 C:\Users\jhere\OneDrive\Documentos\TE_Projects\webapi_architecture\Entities\obj\Debug\net7.0\refint\Entities.dll
 C:\Users\jhere\OneDrive\Documentos\TE_Projects\webapi_architecture\Entities\obj\Debug\net7.0\Entities.pdb
 C:\Users\jhere\OneDrive\Documentos\TE_Projects\webapi_architecture\Entities\obj\Debug\net7.0\ref\Entities.dll
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\bin\Debug\net7.0\Entities.deps.json
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\bin\Debug\net7.0\Entities.dll
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\bin\Debug\net7.0\Entities.pdb
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\Entities.dll
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\refint\Entities.dll
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\Entities.pdb
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\ref\Entities.dll

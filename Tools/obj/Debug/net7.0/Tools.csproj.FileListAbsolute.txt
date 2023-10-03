@@ -1,0 +1,11 @@
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\bin\Debug\net7.0\Tools.deps.json
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\bin\Debug\net7.0\Tools.dll
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\bin\Debug\net7.0\Tools.pdb
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\Tools.AssemblyInfoInputs.cache
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\Tools.AssemblyInfo.cs
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\Tools.csproj.CoreCompileInputs.cache
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\Tools.dll
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\refint\Tools.dll
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\Tools.pdb
+E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\ref\Tools.dll

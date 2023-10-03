@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tn5Kf6bHCsOK+Xryk9bu4jp1+naFgcej6r0P43mXPcx0tcwo7kRvdW5J0OTh5i8HS0Ep0F5W6bbdO64Bt9t8pA==",
+  "dgSpecHash": "xUMGpgRHME22aFPtfqbTNAasn99sCCfDFNA0G4n4hR/nNZu1eIfv/1/XE9zYOnkE8cV4RJDGlB8RDOGcVmxKug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\webapi_architecture\\Entities\\Entities.csproj",
+  "projectFilePath": "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

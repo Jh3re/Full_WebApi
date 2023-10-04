@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\DAL\\DAL.csproj": {}
+    "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\Full_WebApi\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\DAL\\DAL.csproj": {
+    "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\Full_WebApi\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\Full_WebApi\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\Full_WebApi\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\jhere\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\Full_WebApi\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhere\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -34,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\Entities\\Entities.csproj": {
-                "projectPath": "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\Entities\\Entities.csproj"
+              "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\Full_WebApi\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\Full_WebApi\\Entities\\Entities.csproj"
               }
             }
           }
@@ -85,24 +83,22 @@
         }
       }
     },
-    "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\Entities\\Entities.csproj": {
+    "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\Full_WebApi\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\Full_WebApi\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "E:\\Mis Documentos\\Full Stack\\te\\Full_WebApi\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\Full_WebApi\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\jhere\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhere\\OneDrive\\Documentos\\TE_Projects\\Full_WebApi\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhere\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

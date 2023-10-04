@@ -32,3 +32,20 @@ E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
 E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\DAL.pdb
 E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
 E:\Mis Documentos\Full Stack\te\Full_WebApi\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\bin\Debug\net7.0\Entities.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\bin\Debug\net7.0\Entities.pdb
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\DAL\obj\Debug\net7.0\ref\DAL.dll

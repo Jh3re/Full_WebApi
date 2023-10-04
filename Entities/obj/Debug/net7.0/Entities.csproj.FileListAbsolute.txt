@@ -20,3 +20,14 @@ E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\Entities.d
 E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\refint\Entities.dll
 E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\Entities.pdb
 E:\Mis Documentos\Full Stack\te\Full_WebApi\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Entities\bin\Debug\net7.0\Entities.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Entities\obj\Debug\net7.0\Entities.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Entities\obj\Debug\net7.0\ref\Entities.dll

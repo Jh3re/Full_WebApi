@@ -9,3 +9,14 @@ E:\Mis Documentos\Full Stack\te\Full_WebApi\LN\obj\Debug\net7.0\LN.dll
 E:\Mis Documentos\Full Stack\te\Full_WebApi\LN\obj\Debug\net7.0\refint\LN.dll
 E:\Mis Documentos\Full Stack\te\Full_WebApi\LN\obj\Debug\net7.0\LN.pdb
 E:\Mis Documentos\Full Stack\te\Full_WebApi\LN\obj\Debug\net7.0\ref\LN.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\LN\bin\Debug\net7.0\LN.deps.json
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\LN\bin\Debug\net7.0\LN.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\LN\bin\Debug\net7.0\LN.pdb
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\LN\obj\Debug\net7.0\LN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\LN\obj\Debug\net7.0\LN.AssemblyInfoInputs.cache
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\LN\obj\Debug\net7.0\LN.AssemblyInfo.cs
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\LN\obj\Debug\net7.0\LN.csproj.CoreCompileInputs.cache
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\LN\obj\Debug\net7.0\LN.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\LN\obj\Debug\net7.0\refint\LN.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\LN\obj\Debug\net7.0\LN.pdb
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\LN\obj\Debug\net7.0\ref\LN.dll

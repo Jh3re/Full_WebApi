@@ -9,3 +9,14 @@ E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\Tools.dll
 E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\refint\Tools.dll
 E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\Tools.pdb
 E:\Mis Documentos\Full Stack\te\Full_WebApi\Tools\obj\Debug\net7.0\ref\Tools.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Tools\bin\Debug\net7.0\Tools.deps.json
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Tools\bin\Debug\net7.0\Tools.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Tools\bin\Debug\net7.0\Tools.pdb
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Tools\obj\Debug\net7.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Tools\obj\Debug\net7.0\Tools.AssemblyInfoInputs.cache
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Tools\obj\Debug\net7.0\Tools.AssemblyInfo.cs
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Tools\obj\Debug\net7.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Tools\obj\Debug\net7.0\Tools.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Tools\obj\Debug\net7.0\refint\Tools.dll
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Tools\obj\Debug\net7.0\Tools.pdb
+C:\Users\jhere\OneDrive\Documentos\TE_Projects\Full_WebApi\Tools\obj\Debug\net7.0\ref\Tools.dll
